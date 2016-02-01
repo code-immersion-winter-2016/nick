@@ -1,5 +1,33 @@
 # paper rock scissors game
 
+#=============================================
+
+#Shane I hit a wall with two things
+
+# 1st wall - it prints more than one answer and havnt been able to fix that
+
+# example of 1st wall
+
+   # You Go First
+
+# Choose Paper, Rock, or Scissors?
+#
+# Paper
+#
+# You: Paper
+# CPU: Rock
+#
+# YOU WIN!
+# YOU WIN!
+# YOU Lose
+
+
+# 2nd wall - How to create a loop where the game continues to run or repeats
+# the game without rerunning the file
+
+#===============================================
+
+
 
 #intro title
 
