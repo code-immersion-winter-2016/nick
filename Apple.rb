@@ -1,5 +1,13 @@
 #Apple Inventory Homework
 
+#=====================================
+
+#Shane,
+#
+#I have hit walls with this here is my work so far
+
+#=====================================
+
 # class Apple
 #
 # def initialize (iPhone, iPad, iMac)
